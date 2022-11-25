@@ -1,0 +1,23 @@
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  font-family: arial;
+  color: blue;
+  text-align: center;
+  letter-spacing: -1px;
+}
+h2 {
+  font-family: arial;
+  color: blue;
+  text-align: center;
+  letter-spacing: -1px;
+}
+
+p {
+  font-family: arial;
+  color: blue;
+  text-align: left;
+  letter-spacing: 1px;
+}
